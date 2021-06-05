@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="numbutton">#455A64</color>
     <color name="actionbutton">#F57C00</color>
+    <color name="hell">#F57C00</color>
 
 
 </resources>
